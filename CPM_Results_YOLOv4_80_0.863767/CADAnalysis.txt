@@ -1,0 +1,16 @@
+
+************************************************************
+CAD Analysis: YOLOv4_80_all
+************************************************************
+
+Candidate detection results:
+    True positives: 1116
+    False positives: 10989
+    False negatives: 70
+    True negatives: 0
+    Total number of candidates: 14339
+    Total number of nodules: 1186
+    Ignored candidates on excluded nodules: 2232
+    Ignored candidates which were double detections on a nodule: 2
+    Sensitivity: 0.940978078
+    Average number of candidates per scan: 16.147522523
